@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+
+#video {
+    width: 1250px;
+    height: 800px;
+}
+
+#my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
